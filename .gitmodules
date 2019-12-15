@@ -1,0 +1,3 @@
+[submodule "appyhour"]
+	path = appyhour
+	url = https://github.com/cmalla94/appyhour.git
